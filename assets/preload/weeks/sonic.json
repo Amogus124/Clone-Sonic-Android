@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Nightmare", "conic", [255, 120, 191]],
+		["Mania", "conic", [255, 120, 191]],
+		["Illusion", "conic", [255, 120, 191]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "mania",
+
+	"storyName": "ARCADE MANIA",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

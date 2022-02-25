@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lefty sonic",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "EVILDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				62
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UPward",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "righty sonic",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ConicIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				35,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "alright",
+			"loop": false,
+			"name": "Alright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/conic_ass",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "conic",
+	"flip_x": false,
+	"healthbar_colors": [
+		95,
+		142,
+		226
+	],
+	"camera_position": [
+		-110,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
